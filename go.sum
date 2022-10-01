@@ -1,0 +1,6 @@
+github.com/barrymuss/go-say-hello v1.0.0 h1:rcRHVYJqJFqQ6eMbw3YCGdSiOLjynSoCfpPEjww/KGI=
+github.com/barrymuss/go-say-hello v1.0.0/go.mod h1:nirm4fYbhB5FSt3c3SP+aeJfygzv3bhwmIHVgJ8hMMg=
+github.com/barrymuss/go-say-hello v1.5.0 h1:BWmBzi1j9FTQug3xeeCGFDj77bS96T+LWMfRZ+CYDWA=
+github.com/barrymuss/go-say-hello v1.5.0/go.mod h1:nirm4fYbhB5FSt3c3SP+aeJfygzv3bhwmIHVgJ8hMMg=
+github.com/barrymuss/go-say-hello/v2 v2.0.0 h1:xppm5sYi3GV7a+/uMHAV+KEr9r2CTMazJxkKEx+DW0Q=
+github.com/barrymuss/go-say-hello/v2 v2.0.0/go.mod h1:h0s6/ypt06GNMSD8hTdYZPgq4pQ6F8RvXhuYxceAyUg=
